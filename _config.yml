@@ -1,14 +1,4 @@
 title: Brock Hankus
 baseurl: ""
 theme: "jekyll-theme-minimal-resume"
-exclude:
-  - README.md
-  - "README_zh-CN.md"
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - jekyll-crisp-minimal-resume.gemspec
-  - /script
-  - /screenshots
-  - /fixtures
-  - Rakefile
+exclude: [vendor]
