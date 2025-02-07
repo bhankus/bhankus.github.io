@@ -1,6 +1,6 @@
-title: Brock Hankus
-baseurl: ""
-theme: "jekyll-theme-minimal-resume"
+title: Résumé
+baseurl: "/resume/"
+color: nord
 exclude:
   - README.md
   - "README_zh-CN.md"
@@ -12,4 +12,3 @@ exclude:
   - /screenshots
   - /fixtures
   - Rakefile
-  - [vendor]
