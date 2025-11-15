@@ -26,10 +26,10 @@ a {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1rem;
-  max-width: 48rem;
+  max-width: 50rem;
   text-align: left; }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 50rem) {
   html {
     font-size: 12px; }
 
@@ -72,7 +72,7 @@ header {
     color: inherit;
     text-decoration: none; }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 50rem) {
   header {
     display: block;
     padding-bottom: 1rem; }
@@ -129,7 +129,7 @@ section {
   font-size: 1rem;
   line-height: 1.5; }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 50rem) {
   section {
     display: block;
     padding-top: 2rem;

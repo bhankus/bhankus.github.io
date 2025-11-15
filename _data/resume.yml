@@ -1,7 +1,7 @@
 title: Brock Hankus
 name: BROCK HANKUS
 jobtitle: Software Engineer
-summary: Veteran software engineer specializing in quality through test-driven development, automation, and security best practices. A collaborative team player with strong opinions, experienced in working with diverse global teams. Committed to leading with data-driven decisions to drive impactful results.
+summary: Veteran software engineer specializing in delivering quality back-end applications through test-driven development, automation, and security best practices. A collaborative team player with strong opinions, experienced in working with diverse global teams. Committed to leading with data-driven decisions to drive impactful results.
 contact:
   - icon: fa-envelope
     text: bhankus.nbt9p@slmails.com
@@ -27,41 +27,43 @@ education:
 skills:
   - title: Programming
     items: Java, Spring, Spring Boot, Javascript, Junit, NodeJS, Angular, Ruby
+  - title:
+    items: GitHub Copilot, Cline, Ollama
   - title: Code Quality
-    items: Qualys, Checkmarx, SonarQube, GitHub Copilot
+    items: Qualys, Checkmarx, SonarQube
   - title: Data Store
     items: MariaDB, MySQL, PostgreSQL, Oracle, Redis
   - title: Deployment
-    items: Docker, Kubernetes, Git, Jenkins, Microservices, REST API
+    items: Docker, Kubernetes, Git, Jenkins, CI/CD, Microservices, REST API, Linux
 experience:
   - title: Lead Software Engineer
-    duration: October 2021 - Present
+    duration: October 2021 - October 2025
     company: Visa
     description:
       - Triaged and resolved revenue-impacting production incidents reported by the client support team, effectively communicating updates to stakeholders.
-      - Coordinated release schedules and integrated multiple features while managing cross-team dependencies.
-      - Ensured security compliance by monitoring open source libraries, maintaining policy adherence, and preparing releases for security assessments and penetration testing.
-      - Oversaw sprint progress and prioritized initiatives to guide the team's direction.
-      - Mentored junior developers in API design, new language features, and best practices to foster skill development.
-      - Key technologies - Java 17, Spring Boot 3.2, Docker, Kubernetes
+      - Coordinated release schedules and managed dependencies across 4 teams.
+      - Ensured security compliance by monitoring open-source libraries, maintaining policy adherence, and preparing releases for security assessments and penetration testing.
+      - Created a MCP server connecting to artifact repository identifying open-source libraries with security findings to explore how my team could leverage AI.
+      - Oversaw 2-week sprint progress and prioritized initiatives for a scrum team of 9 developers, QA and product managers.
+      - Mentored junior developers in API design, new Java language features, and best practices to foster skill development.
+
   - title: Staff Software Engineer
     duration: January 2019 – September 2021
     company: Visa
     description: 
-      - Collaborated with four teams on a major redesign of a revenue-generating business pricing model under tight deadlines.
-      - Led several cross-team development projects from requirements gathering through production support.
-      - Integrated user accounts with several client banks on SSO implementations using Oauth, OIDC and Keycloak.
-      - Directed the design and development of key projects, including a rules engine and a feature flag service.
-      - Introduced innovative technologies to the organization, such as Liquibase and Spring Cloud Config.
-      - Key technologies - Java 11, Spring Boot 2.3, Docker, Kubernetes
+      - Collaborated with 4 teams on a major redesign of a revenue-generating business pricing model under tight deadlines.
+      - Led cross-team Spring boot development projects from requirements gathering through production support.
+      - Integrated with client banks with SSO using Oauth, OIDC and Keycloak.
+      - Introduced new technologies like Liquibase and Spring Cloud Config to the team.
+
   - title: Sr. Software Engineer
     duration: July 2018 - December 2018
     company: Intuit
     description:
-      - Provided LaunchDarkly feature flag tools and services for internal developers.
+      - Provided LaunchDarkly feature flag tools and services for internal developers to monitor hundreds of flags.
       - Deployed custom applications to AWS leveraging EC2, ELB, S3, Route 53, and Autoscale Groups.
       - Reported time series metrics to Wavefront for visualization of feature flag event data.
-      - Key technologies - Java 8, Spring Boot 1.5, AWS, LaunchDarkly
+
   - title: Sr. Software Engineer
     duration: September 2016 - May 2018
     company: Awarepoint
@@ -69,5 +71,5 @@ experience:
       - Built custom Real Time Location System IoT software to manage over 100,000 concurrently communicating devices in a hospital setting.
       - Created an API for location, environmental and diagnostic data leveraging Spring Boot.
       - Identified and corrected production performance bottlenecks using YourKit Java profiling tool.
-      - Key technologies - Java 8, Spring 5.0, Spring Boot 2.0, Kafka 1.0, Angular, MySQL 5.7
+
 
