@@ -27,7 +27,7 @@ education:
 skills:
   - title: Programming
     items: Java, Spring, Spring Boot, Javascript, Junit, NodeJS, Angular, Ruby
-  - title:
+  - title: AI
     items: GitHub Copilot, Cline, Ollama
   - title: Code Quality
     items: Qualys, Checkmarx, SonarQube
