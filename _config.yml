@@ -1,4 +1,9 @@
-title: Brock Hankus
-baseurl: ""
-theme: "jekyll-theme-minimal-resume"
-exclude: [vendor]
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+
+theme: lanyon
