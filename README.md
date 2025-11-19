@@ -1,4 +1,5 @@
 # Brock Hankus
+[Email](mailto:bhankus.nbt9p@slmails.com) | [LinkedIn](https://www.linkedin.com/in/brockhankus/) | [Github](https://github.com/bhankus) | [Photo Gallery](https://gallery.brockhankus.com/)
 
 Veteran software engineer specializing in delivering quality back-end applications through test-driven development, automation, and security best practices. A collaborative team player with strong opinions, experienced in working with diverse global teams. Committed to leading with data-driven decisions to drive impactful results.
 
