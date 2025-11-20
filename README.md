@@ -25,11 +25,11 @@ Veteran software engineer specializing in delivering quality back-end applicatio
 support team, effectively communicating updates to stakeholders.
 - Coordinated release schedules and managed dependencies across 4 teams.
 - Ensured security compliance by monitoring open-source libraries, maintaining policy
-- herence, and preparing releases for security assessments and penetration testing.
+adherence, and preparing releases for security assessments and penetration testing.
 - Created a MCP server connecting to artifact repository identifying open-source
-- braries with security findings to explore how my team could leverage AI.
+libraries with security findings to explore how my team could leverage AI.
 - Oversaw 2-week sprint progress and prioritized initiatives for a scrum team of 9
-- velopers, QA and product managers.
+developers, QA and product managers.
 - Mentored junior developers in API design, new Java language features, and best
 practices to foster skill development.
 
